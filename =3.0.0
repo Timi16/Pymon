@@ -1,0 +1,2 @@
+Requirement already satisfied: Werkzeug in /data/data/com.termux/files/usr/lib/python3.11/site-packages (3.0.3)
+Requirement already satisfied: MarkupSafe>=2.1.1 in /data/data/com.termux/files/usr/lib/python3.11/site-packages (from Werkzeug) (2.1.5)
